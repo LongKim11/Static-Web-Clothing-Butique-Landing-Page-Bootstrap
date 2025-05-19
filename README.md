@@ -22,4 +22,4 @@ Check out the live landing page here:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/longkim11/Static-Web-Clothing-Butique-Landing-Page-Bootstrap.git
+   git clone https://github.com/longkim11/Static-Web-Clothing-Butique-Landing-Page-Bootstrap
